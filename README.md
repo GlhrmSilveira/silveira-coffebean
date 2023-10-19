@@ -1,6 +1,6 @@
 ### silveira-coffebean
 i have generate a random project in https://randomprojectgenerator.com/ and is my first project where i have been planed/ draft in Figma.</br>
- <h5> 🇧🇷​🇵🇹​ eu gerei um projeto aleatório em https://randomprojectgenerator.com/ e é meu primeiro projeto onde fui planejado/rascunhado no Figma. </h5>
+ <h5> 🇧🇷​🇵🇹​ eu gerei um projeto aleatório em https://randomprojectgenerator.com/ e é meu primeiro projeto onde planejaei/rascunhei no Figma. </h5>
 <hr>
 
 ⤵️ Figma Link Project
